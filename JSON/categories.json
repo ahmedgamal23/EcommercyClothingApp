@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "name": "Clothes",
+      "img": "assets/icons/clothes.png"
+    },
+    {
+      "name": "Shoes",
+      "img": "assets/icons/shoes.png"
+    },
+    {
+      "name": "Bags",
+      "img": "assets/icons/bags.png"
+    },
+    {
+      "name": "Hats",
+      "img": "assets/icons/hats.png"
+    },
+    {
+      "name": "Pants",
+      "img": "assets/icons/pants.png"
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "name": "black Hoodie With Zipper",
+      "img": "assets/images/blackHoodieWithZipper.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "mockup white tshirt Front",
+      "img": "assets/images/mockup white tshirt Front.jpg",
+      "price": "$70"
+    },
+    {
+      "name": "Red Hoodie",
+      "img": "assets/images/redHoodie.jpg",
+      "price": "$30"
+    },
+    {
+      "name": "black&white",
+      "img": "assets/images/black&white.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "black tshirt",
+      "img": "assets/images/black tshirt.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "boy wearing green jacket",
+      "img": "assets/images/boy wearing green jacket.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "jacket collections",
+      "img": "assets/images/jacket collections.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "black hoodie",
+      "img": "assets/images/black hoodie.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "mockup white tshirt Front",
+      "img": "assets/images/mockup white tshirt Front.jpg",
+      "price": "$50"
+    },
+    {
+      "name": "opened black t-shirt",
+      "img": "assets/images/opened black t-shirt.jpg",
+      "price": "$50"
+    }
+  ]
+}
